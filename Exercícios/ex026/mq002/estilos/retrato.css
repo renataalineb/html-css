@@ -1,3 +1,9 @@
 @charset "UTF-8";
 
-/*aparelho em pé*/
+/*aparelho em pé(*/
+
+body{
+    background-image: url(../cev-portrait.jpg);
+    background-position: center bottom;
+    
+}
